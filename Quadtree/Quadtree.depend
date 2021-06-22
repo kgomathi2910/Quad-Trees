@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1624369236 source:/home/gomathi/Documents/Additionals/Quadtree/Point.cpp
+	"Point.h"
+
+1624369313 /home/gomathi/Documents/Additionals/Quadtree/Point.h
+
+1624372056 source:/home/gomathi/Documents/Additionals/Quadtree/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Point.h"
+	"Quadtree.h"
+
+1624369345 /home/gomathi/Documents/Additionals/Quadtree/Quadtree.h
+	"Rectangle.h"
+	<iostream>
+	<vector>
+
+1624369361 /home/gomathi/Documents/Additionals/Quadtree/Rectangle.h
+	<SFML/Graphics.hpp>
+	"Point.h"
+
+1624369267 source:/home/gomathi/Documents/Additionals/Quadtree/Quadtree.cpp
+	"Quadtree.h"
+	<iostream>
+
+1624369291 source:/home/gomathi/Documents/Additionals/Quadtree/Rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
